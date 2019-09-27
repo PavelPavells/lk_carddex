@@ -1,0 +1,45 @@
+.main-content__account-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-content: stretch;
+    //border: 1px solid black;
+    height: 52.9em;
+    padding: 1em;
+    font-family: 'Gotham Pro';
+    //font-size: 15px;
+}
+.main-content__account-wrapper h1 {
+    border-bottom: 1px solid grey;
+    padding-bottom: 1vh;
+}
+//.main-content__settings {
+//    display: flex;
+//    flex-direction: row;
+//    border: 1px solid black;
+//    height: 10em;
+//}
+.main-content__main-settings {
+    display: flex;
+    flex-direction: column;
+    //justify-content: center;
+    width: 85%;
+    //border: 1px solid black;
+    margin-left: 20em;
+    height: 10em;
+}
+.main-content__main-settings-wrapper {
+    display: flex;
+    flex-direction: row;
+    //justify-content: space-around;
+    //margin-left: 0;
+
+}
+.main-content__main-settings-form {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10em;
+    border-bottom: 1px solif grey;
+}
+.main-content__forms {
+    width: 30em;
+}
